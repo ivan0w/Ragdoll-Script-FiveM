@@ -6,4 +6,3 @@ You can edit the key from here  https://docs.fivem.net/docs/game-references/cont
 ---------------------------------------------------------------------------------------------------
 Type in server.cfg :
 start ragdoll
-ensure ragdoll

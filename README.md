@@ -7,5 +7,5 @@ You can edit the key from here  https://docs.fivem.net/docs/game-references/cont
 Type in server.cfg :
 start ragdoll
 -----------------------
-IF YOU HAVE ANY IDEAS OR QUESTIONS PLEASE CONTACT ME HERE ! ivan0w#5868
+IF YOU HAVE ANY IDEAS OR QUESTIONS PLEASE CONTACT ME HERE: ! ivan0w#5868
 -------------------------------------------------------------------------
